@@ -1,0 +1,2 @@
+# gitsquash
+test squash
